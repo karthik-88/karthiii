@@ -1,1 +1,1 @@
-HEHE
+create table salesman(salesman_id int,name varchar(20),city varchar(20),commission varchar(20),primary key(salesman_id));
